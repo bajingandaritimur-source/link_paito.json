@@ -1,5 +1,6 @@
 {
   "url_web": "https://159.65.133.131/",
-  "latest_version": "1.0.0",
-  "update_url": "https://159.65.133.131/angkanet-v1.0.1.apk"
+  "url_api": "http://wla.my/cron1/json/",
+  "latest_version": "1.0.1",
+  "update_url": "http://wla.my/download/angkanet-terbaru.apk"
 }
